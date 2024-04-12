@@ -1,3 +1,7 @@
-.content{
+body{
+    background-color: rgb(255, 192, 231);
+}
+.cont{
+    border: 1rem;
     box-shadow: 1rem;
 }

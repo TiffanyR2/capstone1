@@ -26,9 +26,12 @@ width: 26vw;
 }
 .text-title{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: x-large;
-    border: 5px solid black;
+    font-size: 3rem;
+    border: 5px solid rgb(0, 0, 0);
    margin-top: 0.5rem;
+   color:white;
+   font-style:italic;
+   background-color: pink;
 }
 #lux-text{
 margin: 2rem auto;
@@ -87,4 +90,9 @@ color: white;
     position: absolute;
     left:-100px;
     top:5rem;
+}
+#splash-text{
+    background-repeat:no-repeat; 
+    background-size: cover;
+    
 }

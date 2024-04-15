@@ -1,7 +1,8 @@
 body{
     background-color: rgb(255, 192, 231);
 }
-.cont{
+.perfume{
     border: 1rem;
-    box-shadow: 1rem;
+    box-shadow: 5rem;
+    border-color: blueviolet;
 }

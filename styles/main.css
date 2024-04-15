@@ -1,8 +1,63 @@
 body{
     background-color: rgb(255, 192, 231);
 }
-.perfume{
-    border: 1rem;
-    box-shadow: 5rem;
-    border-color: blueviolet;
+#ivy{
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 50px;
+}
+.card-title{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.card-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    border: 5px solid black;
+   margin-top: 0.5rem;
+}
+#lux-text{
+margin: 2rem auto;
+border: 0.3rem solid black;
+box-shadow:1rem 1rem 1rem ;
+
+
+}
+#login-page{
+    text-align:center;
+}
+.price{
+    text-align: right;
+}
+td,th{
+    border: 1px solid black;
+padding: 0.25rem 0.5rem;
+}
+table{
+    border-collapse: collapse; 
+
+}
+header a{
+    background-color: black;
+    color: rgb(253, 216, 9);
+    padding: 0.2rem;
+    display:inline-block;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    box-shadow: 0.5rem 0.5rem 1rem black;
+}
+header a:hover{
+color: white;
+}
+.btn-primary{
+    background-color: hotpink;
+    border:2px solid rgb(237, 5, 121)
+}
+#lux-temp{
+    margin: 2rem auto;
+    border: 0.3rem solid black;
+    box-shadow: 1rem 1rem 1rem black;
 }

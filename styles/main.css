@@ -1,8 +1,9 @@
 body{
     background-color: rgb(255, 192, 231);
+    padding-left: 12rem;
 }
 #ivy{
-    width: 200px;
+    /* width: 200px; */
     border: 5px solid black;
     border-radius: 50px;
 }
@@ -10,8 +11,18 @@ body{
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.card{
+    /* margin-left: 10rem; */
+display: inline-block;
+width: 26vw;
+}
 .card-text{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-img-top{
+    height: 24vw;
+    width: 24vw;
+    object-fit:contain;
 }
 .text-title{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -60,4 +71,20 @@ color: white;
     margin: 2rem auto;
     border: 0.3rem solid black;
     box-shadow: 1rem 1rem 2rem black;
+}
+#logo{
+    background-image: url(../petals.jpg);
+    height: 90px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+#store-page #logo{
+    transform: rotate(-90deg);
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    left:-100px;
+    top:5rem;
 }

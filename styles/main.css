@@ -96,4 +96,11 @@ color: white;
     background-repeat:no-repeat; 
     background-size: cover;
     
+    
+}
+#flow-text{
+    margin: 1rem;
+  border: 0.2rem solid pink;
+  background-color: aliceblue;
+  text-align: center;
 }

@@ -69,7 +69,7 @@ color: white;
 }
 .btn-primary{
     background-color: hotpink;
-    border:2px solid rgb(237, 5, 121)
+    border: 2px; solid rgb(237, 5, 121)
 }
 #lux-temp{
     margin: 2rem auto;

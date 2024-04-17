@@ -204,3 +204,6 @@ header a{
 header a:hover{
     color: black;
 }
+#x-text{
+width: 40px;
+}

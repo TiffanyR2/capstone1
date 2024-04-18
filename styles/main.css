@@ -77,7 +77,7 @@ color: white;
     box-shadow: 1rem 1rem 2rem black;
 }
 #logo{
-    background-image: url(../petals.jpg);
+    background-image: url(../images/petals.jpg);
     height: 90px;
     width: 100%;
     background-size: contain;
@@ -190,7 +190,7 @@ header a:hover{
 width: 40px;
 }
 body.home{
-    background-image:url("../petals.jpg");
+    background-image:url("../images/petals.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 

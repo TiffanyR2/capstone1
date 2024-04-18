@@ -1,8 +1,8 @@
 body{
     background-color: rgb(255, 192, 231);
-    padding-left: 12rem;
+    padding-left: 12rem; 
 }
-#ivy{
+.ivy{
     /* width: 200px; */
     border: 2px solid #fa9add;
     border-radius: 50px;
@@ -69,7 +69,7 @@ color: white;
 }
 .btn-primary{
     background-color: hotpink;
-    border: 2px; solid rgb(237, 5, 121)
+    border: 2px solid rgb(237, 5, 121);
 }
 #lux-temp{
     margin: 2rem auto;
@@ -98,7 +98,7 @@ color: white;
     
     
 }
-#flow-text{
+.flow-text{
     margin: 1rem;
   border: 0.2rem solid pink;
   background-color: aliceblue;
@@ -147,38 +147,20 @@ header .shopping span{
 .cart{
     background-color: rgb(232, 165, 198);
     transition: 0.5s;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0.5rem;
 }
-.card h1{
-    color: gold;
+.cart table{
+    width: 90%;
+}
+.cart h1{
+    color: deeppink;
     font-weight: 100;
     margin: 0;
     padding: 0 20px;
     height: 80px;
     display: flex;
     align-items: center;
-}
-.card .checkout{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(2 1fr);
-}
-.card .checkout div{
-    background-color: gold;
-    width: 100%;
-    height: 70px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-weight: bold;
-    cursor: pointer;
-}
-.card .checkOut div:nth-child(2){
-    background-color: black;
-    color: #fff;
-
 }
 .cart{
     position: fixed;
@@ -206,4 +188,10 @@ header a:hover{
 }
 #x-text{
 width: 40px;
+}
+body.home{
+    background-image:url("../petals.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }

@@ -10,6 +10,8 @@ My home page is a mini descriptions of what my perfumes bring, it welcomes you w
 ## Cart Page
 As you enter you dont see much but it welcomes you with a pink arrow letting you know you have to push cart to view it also a nice pink pedal logo in background.
 <img alt= "CART PAGE" width=100% src="./images/cart-screenshot.jpeg">
+<img alt= "CART PAGE" width=100% src="./images/carts-screenshot.jpeg">
+
 
 ## Register Page
 My register page has a simple soft grey background with a tool to register also welcoming you with a dark gold and black luxury perfume logo.

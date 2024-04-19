@@ -9,7 +9,7 @@ My home page is a mini descriptions of what my perfumes bring, it welcomes you w
  <img alt= "LOGIN PAGE" width="100" src="./images/login screenshot.jpeg>
 
 ## Cart Page
-As you enter you dont see much but it welcomes you with a pink arrow letting you know you have to push cart to view it also a nice pink pedal logo in background.
+As you enter you don't see much but it welcomes you with a pink arrow letting you know you have to push cart to view it also a nice pink pedal logo in background.
 <img alt="CART PAGE" width="100" src="./images/cart screenshot.jpeg>
 
 ## Register Page

@@ -20,3 +20,6 @@ My register page has a simple soft grey background with a tool to register also 
 ## Store Page
 My store page welcomes you with a pink pedal logo, it has six naame brand perfumes outlined with even more pink. You have a button to buy or a button to add to cart to keep shopping.
 <img alt= "HOME PAGE" width=100% src="./images/store-screenshot.jpeg">
+
+## LIVE VISUAL LINK
+https://tiffanyr2.github.io/capstone1/
